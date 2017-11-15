@@ -1,12 +1,12 @@
 _schema-version: "2.0.0"
-ID: "com.mycompany.myminiapp"
+ID: "com.test.myapp"
 version: 1.0.0
 
 parameters:
   hcp-deployer-version: "1.0.0"
 
 modules:
-  - name: "MyMiniApp"
+  - name: "myapp"
     type: html5
     path: .
     parameters:
