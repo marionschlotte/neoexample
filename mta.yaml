@@ -6,11 +6,7 @@ parameters:
   hcp-deployer-version: "1.0.0"
 
 modules:
-<<<<<<< HEAD
   - name: "myapp"
-=======
-  - name: "myminiapp"
->>>>>>> 0c51d4d496089c2ca84283248034afccf9198afd
     type: html5
     path: .
     parameters:
